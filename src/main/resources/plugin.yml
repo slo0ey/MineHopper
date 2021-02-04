@@ -1,0 +1,7 @@
+name: MineHopper
+version: ${project.version}
+main: com.acceler8tion.minehopper.MineHopper
+api-version: 1.16
+prefix: [ MineHopper ]
+authors: [ acceler8tion ]
+description: Similar bhop for Minecraft
