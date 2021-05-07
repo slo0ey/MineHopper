@@ -15,3 +15,6 @@ Similar bhopping in Minecraft (Available on 1.16.x)
 - auto-bhop
 - modifying bhop sensitivity
 - permission
+
+# Download
+[here](https://github.com/acceler8tion/MineHopper/releases)
