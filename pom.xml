@@ -6,7 +6,7 @@
 
     <groupId>com.acceler8tion</groupId>
     <artifactId>MineHopper</artifactId>
-    <version>1.0</version>
+    <version>Beta-01</version>
     <packaging>jar</packaging>
 
     <name>MineHopper</name>
