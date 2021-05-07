@@ -1,5 +1,5 @@
 # MineHopper
-Similar bhopping in Minecraft
+Similar bhopping in Minecraft (Available on 1.16.x)
 
 # How to bhop?
 1. keep sprinting(so you need enough food)
