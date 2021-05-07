@@ -1,7 +1,7 @@
 name: MineHopper
 version: ${project.version}
-main: com.acceler8tion.minehopper.MineHopper
+main: com.acceler8tion.minehopper.CorePlugin
 api-version: 1.16
-prefix: [ MineHopper ]
+prefix: MineHopper
 authors: [ acceler8tion ]
-description: Similar bhop for Minecraft
+description: Similar bhopping in Minecraft
